@@ -1,0 +1,41 @@
+cff-version: 1.12.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Grifoni
+    given-names: Cinzia
+    orcid: https://orcid.org/0000-0002-0560-6031
+  - family-names: Pürstinger
+    given-names: Leon
+    orcid: https://orcid.org/0000-0002-7027-1020
+  - family-names: Stein
+    given-names: Evina
+    orcid: https://orcid.org/0000-0001-9428-4013
+  - family-names: Halbertschlager
+    given-names: Theresa
+    orcid: https://orcid.org/0009-0003-3826-5768
+  - family-names: Morandy
+    given-names: Alice
+    orcid: https://orcid.org/0009-0006-0406-613X 
+  - family-names: Adam
+    given names: Evangelos
+    orcid: https://orcid.org/0009-0009-7811-7093
+  - family-names: Tommasi
+    given-names: Tatiana
+    orcid: https://orcid.org/0009-0000-2815-0113
+  - family-names: Nuutinen
+    given names: Essi
+    orcid: https://orcid.org/0009-0001-8947-0900
+  - family-names: Wladika
+    given-names: Veronika
+    orcid: https://orcid.org/0009-0008-5173-7383
+  - family-names: Pollard
+    given-names: Richard Matthew
+  - family-names: Weis
+    given-names: William
+       
+title: "HTR Winter School 2023/24 - Carolingian Latin"
+version: 1.0.0
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.10589561
+date-released: 2024-01-30

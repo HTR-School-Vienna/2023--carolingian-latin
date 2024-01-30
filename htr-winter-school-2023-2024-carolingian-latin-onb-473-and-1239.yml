@@ -1,0 +1,92 @@
+schema: https://htr-united.github.io/schema/2023-06-27/schema.json
+title: HTR Winter School 2023/2024 - Carolingian Latin ÖNB 473 and 1239
+url: https://github.com/HTR-School-Vienna/2023--carolingian-latin
+authors:
+  - name: Cinzia
+    surname: Grifoni
+    orcid: 0000-0002-0560-6031
+    roles:
+      - project-manager
+  - name: Leon
+    surname: Pürstinger
+    orcid: 0000-0002-7027-1020
+    roles:
+      - project-manager
+      - support
+  - name: Evina
+    surname: Stein
+    orcid: 0000-0001-9428-4013
+    roles:
+      - transcriber
+  - name: Theresa
+    surname: Halbertschlager
+    orcid: 0009-0003-3826-5768
+    roles:
+      - transcriber
+  - name: Alice
+    surname: Morandy
+    roles:
+      - transcriber
+  - name: Evangelos
+    surname: Adam
+    orcid: 0009-0009-7811-7093
+    roles:
+      - transcriber
+  - name: Tatiana
+    surname: Tommasi
+    orcid: 0009-0000-2815-0113
+    roles:
+      - transcriber
+  - name: Essi
+    surname: Nuutinen
+    orcid: 0009-0001-8947-0900
+    roles:
+      - transcriber
+  - name: Veronika
+    surname: Wladika
+    orcid: 0009-0008-5173-7383
+    roles:
+      - transcriber
+  - name: Richard Mathew
+    surname: Pollard
+    roles:
+      - transcriber
+  - name: William
+    surname: Weis
+    roles:
+      - transcriber
+institutions: []
+description: >-
+  Ground truth of some parts of ÖNB Cod. 473 and Cod. 1239 (including glosses):
+  automatically read pages with Transkribus 
+language:
+  - lat
+production-software: Transkribus
+automatically-aligned: false
+script:
+  - iso: Latn
+    qualify: Carolingian
+script-type: only-manuscript
+time:
+  notBefore: '2023'
+  notAfter: '2024'
+hands:
+  count: unknown
+  precision: exact
+license:
+  - name: CC-BY 4.0
+    url: https://creativecommons.org/licenses/by/4.0/
+format: Page-XML
+sources:
+  - reference: ''
+    link: https://manuscripta.at/hs_detail.php?ID=12335
+  - reference: ''
+    link: https://manuscripta.at/hs_detail.php?ID=10541
+volume:
+  - metric: pages
+    count: 65
+citation-file-link: ./CITATION.cff
+transcription-guidelines: >-
+  We used the transcription guidelines prepared by Tim Geelhaar according to his
+  public model Latin - Carolingian Minuscule on Transkribus
+  (https://readcoop.eu/de/modelle/latin-carolingian-minuscule/)
